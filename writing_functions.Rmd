@@ -116,6 +116,7 @@ mean_and_sd = function(x) {
   )
   
 }
+# tibble function would create two columns in this case, mean and sd
 ```
 
 Double check I did this right ..
