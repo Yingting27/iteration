@@ -110,7 +110,7 @@ sim_result_df |>
 
 <img src="simulation_files/figure-gfm/unnamed-chunk-7-1.png" width="90%" />
 
-## SLR
+## SLR (simple linear regression)
 
 Goal is to write a function that simulates data and then fits a
 regression; then repeat to look at the distribution of estimated
